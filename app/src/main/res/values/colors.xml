@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0E0F12</color>
+    <color name="colorPrimaryDark">#111317</color>
+    <color name="colorAccent">#080A0B</color>
+
+    <!--colors for modern ui-->
+    <color name="whiteTextColor">#090909</color>
+    <color name="primaryTextColor">#0B0C0C</color>
+    <color name="loginBkColor">#FAF7F7</color>
+
+    <!--colros for card-->
+    <color name="whiteCardColor">#E6E1E1</color>
+
+</resources>
